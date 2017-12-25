@@ -1,3 +1,8 @@
+---
+title: IRC Bots - IRC Wiki
+excerpt: What an IRC bot is, and what bots exist.
+categories: bots
+---
 # IRC Bots
 ## What is an IRC Bot?
 An IRC bot is any non-human client that connects to IRC and performs predetermined operations.
