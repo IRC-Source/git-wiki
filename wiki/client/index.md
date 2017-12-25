@@ -1,5 +1,7 @@
 ---
-Title: IRC Clients
+title: IRC Clients - IRC Wiki
+excerpt: What an IRC client is and what IRC clients are available.
+categories: clients
 ---
 # IRC Clients
 IRC clients are how you connect to IRC.
