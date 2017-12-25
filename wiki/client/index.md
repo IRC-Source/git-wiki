@@ -3,6 +3,7 @@ IRC clients are how you connect to IRC.
 
 ## List of IRC Clients
 | Client | Windows | Linux | OSX | Android | IOS |
+|---|---|---|---|---|---|
 | mIRC | ✔ | ✖ | ✖ | ✖ | ✖ |
 | AdiIRC | ✔ | ✖ | ✖ | ✖ | ✖ |
 | HexChat | ✔ | ✔ | ✔ | ✖ | ✖ |
