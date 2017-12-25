@@ -5,12 +5,12 @@ An IRCd is the daemon that listens for client connections. A cluster of IRC daem
 
 ## List of IRC Daemons
 * [UnrealIRCd](/wiki/ircd/unreal)
-* [ratbox](/wiki/ircd/ratbox)
-* [Charybdis](/wiki/ircd/charybdis)
 * [InspIRCd](/wiki/ircd/inspircd)
-* [Hybrid](/wiki/ircd/hybrid)
-* [nefarious](/wiki/ircd/nefarious)
-* [ircd7](/wiki/ircd/ircd7)
+* [ratbox](/wiki/ircd/ratbox)
+  * [Charybdis](/wiki/ircd/charybdis)
 * [ircu](/wiki/ircd/ircu)
+  * [nefarious](/wiki/ircd/nefarious)
+* [Hybrid](/wiki/ircd/hybrid)
+* [ircd7](/wiki/ircd/ircd7)
 
 *This list is incomplete, help us complete it by submitting a PR*
