@@ -1,3 +1,8 @@
+---
+title: Eggdrop IRC Bot - IRC Wiki
+excerpt: About the Eggdrop IRC bot written in C.
+categories: bots
+---
 # Eggdrop
 
 Eggdrop is written in the C programming language and features interfaces for C modules and Tcl scripts that allow users to further bolster the functionality of the bot. A large number of Tcl scripts are available to expand the bot's functionality, most of them written by Eggdrop users.
