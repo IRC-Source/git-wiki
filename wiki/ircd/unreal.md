@@ -1,3 +1,8 @@
+---
+title: UnrealIRCd - IRC Wiki
+excerpt: UnrealIRCd is an Open Source IRC Server, serving thousands of networks since 1999.
+categories: ircd
+---
 # UnrealIRCd
 UnrealIRCd is an Open Source IRC Server, serving thousands of networks since 1999. It runs on Linux, OS X and Windows and is currently the most widely deployed IRCd with a market share of over 50%.
 
