@@ -1,4 +1,5 @@
 # IRC Servers (IRCd)
+This page is about IRC daemons, if you are looking for a list of networks or channels visit [IRC-Source.com](https://irc-source.com).
 An IRCd is the daemon that listens for client connections.
 
 ## List of IRC Daemons
