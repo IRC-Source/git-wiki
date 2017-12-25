@@ -2,7 +2,7 @@ title: IRC Wiki
 description: A wiki for IRC based on Github pages
 show_downloads: false
 comments: false
-logo_url: https://i.pinimg.com/736x/48/bc/1a/48bc1ae88f43aa9845403d378ecdb830--wedding-hashtag-generator-being-used.jpg
+logo_url: /assets/images/logo.jpg
 google_analytics:
 git_branch: master
 theme: 
