@@ -1,10 +1,10 @@
-title: git-wiki-demo
-description: This is a demo of git-wiki theme for jekyll
-show_downloads: true
-comments: true
-logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png
+title: IRC Wiki
+description: A wiki for IRC based on Github pages
+show_downloads: false
+comments: false
+logo_url: https://i.pinimg.com/736x/48/bc/1a/48bc1ae88f43aa9845403d378ecdb830--wedding-hashtag-generator-being-used.jpg
 google_analytics:
-git_branch: gh-pages
+git_branch: master
 theme: 
 use_github_wiki: false
 use_prose_io: true
