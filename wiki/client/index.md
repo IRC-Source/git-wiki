@@ -6,6 +6,7 @@ IRC clients are how you connect to IRC.
 * [AdiIRC](/wiki/client/adiirc) (Windows/Wine)
 * [HexChat](/wiki/client/hexchat) (Windows/Linux/OSX)
 * [Quassel](/wiki/client/quassel-client) (Windows/Linux/OSX/Android/IOS?)
+* [irssi](/wiki/client/irssi) (Windows/Linux/OSX)
 
 ## List of Web IRC Clients
 * [IRCCloud](/wiki/client/irccloud) (w/ apps for Windows/Linux/OSX/IOS/Android)
