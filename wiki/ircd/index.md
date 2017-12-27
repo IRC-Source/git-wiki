@@ -3,6 +3,8 @@ title: IRC Servers (IRCd) - IRC Wiki
 excerpt: What an IRCd is, and which are available.
 categories: ircd
 ---
+*This page is incomplete, help us complete it by submitting a PR*
+
 # IRC Servers (IRCd)
 This page is about IRC daemons, if you are looking for a list of networks or channels visit [IRC-Source.com](https://irc-source.com).
 
