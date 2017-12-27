@@ -6,9 +6,10 @@ categories: ircd
 # IRC Servers (IRCd)
 This page is about IRC daemons, if you are looking for a list of networks or channels visit [IRC-Source.com](https://irc-source.com).
 
-An IRCd is the daemon that listens for client connections. A cluster of IRC daemons forms an [IRC Network](/wiki/network).
+An IRCd, short for Internet Relay Chat daemon, is server software that implements the [IRC protocol](/wiki/protocol).
 
 ## List of IRC Daemons
+*This list is incomplete, help us complete it by submitting a PR*
 * [Bahamut](/wiki/ircd/Bahamut)
 * [Charybdis](/wiki/ircd/charybdis)
 * [Elemental-IRCd](/wiki/ircd/elemental-ircd)
@@ -20,5 +21,3 @@ An IRCd is the daemon that listens for client connections. A cluster of IRC daem
 * [ratbox](/wiki/ircd/ratbox)
 * [ShadowIRCd](/wiki/ircd/shadowircd)
 * [UnrealIRCd](/wiki/ircd/unreal)
-
-*This list is incomplete, help us complete it by submitting a PR*
