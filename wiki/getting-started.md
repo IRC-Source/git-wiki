@@ -2,6 +2,8 @@
 Title: Getting Started  on IRC
 excerpt: How to get connected to IRC and some basic pointers.
 ---
+>This article is a stub. You can help by creating a pull request.
+
 # Getting Started
 # Choose an IRC Client
 An [IRC client](/wiki/client/) is required to connect to an [IRC server](/wiki/ircd/). To get started [choose IRC Client from this list](/wiki/client/#list-of-web-irc-clients).

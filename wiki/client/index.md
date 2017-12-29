@@ -3,7 +3,8 @@ title: IRC Clients - IRC Wiki
 excerpt: What an IRC client is and what IRC clients are available.
 categories: clients
 ---
->This article is a stub. You can help by creating a pull request
+>This article is a stub. You can help by creating a pull request.
+
 # IRC Clients
 IRC clients are how you connect to IRC.
 
