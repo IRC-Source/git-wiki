@@ -52,7 +52,7 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
         <td>✖</td>
     </tr>
     <tr>
-        <td><a href="/wiki/client/quassel-client">Quassel</a></td>
+        <td><a href="/wiki/client/quassel">Quassel</a></td>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -60,11 +60,51 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
 </table>
 
 ## List of Web IRC Clients
-* [IRCCloud](/wiki/client/irccloud) (w/ apps for Windows/Linux/OSX/IOS/Android)
-* [KiwiIRC](/wiki/client/kiwiirc)
-* [Mibbit](/wiki/client/mibbit)
+<table>
+    <tr>
+        <td>Client</td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/irccloud">IRCCloud</a></td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/kiwiirc">KiwiIRC</a></td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/mibbit">Mibbit</a></td>
+    </tr>
+</table>
 
 ## Mobile IRC Clients
-* [AndroIRC](/wiki/client/androirc) (Android)
-* [IRCCloud](/wiki/client/irccloud) (w/ apps for Windows/Linux/OSX/IOS/Android)
-* [Quassel](/wiki/client/quassel-client) (Windows/Linux/OSX/Android/IOS?)
+<table>
+    <tr>
+        <td>Client</td>
+        <td>Android</td>
+        <td>iOS</td>
+        <td>Windows</td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/androirc">AndroIRC</a></td>
+        <td>✔</td>
+        <td>✖</td>
+        <td>✖</td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/irccloud">IRCCloud</a></td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✖</td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/quassel">Quassel</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✖</td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/winirc">WinIRC</a></td>
+        <td>✖</td>
+        <td>✖</td>
+        <td>✔</td>
+    </tr>
+</table>
