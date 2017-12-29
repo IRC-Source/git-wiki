@@ -14,3 +14,5 @@ Scripts for eggdrop are written in TCL and many scripts can be found for eggdrop
 
 # External Links
 1. [TCL Archive](http://tclarchive.org): A place to find and submit eggdrop scripts.
+2. [Eggdrop Git Repository](https://github.com/eggheads/eggdrop)
+3. [Eggheads](http://eggheads.org)
