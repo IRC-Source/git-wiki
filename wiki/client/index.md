@@ -53,19 +53,21 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
         <td>✔</td>
     </tr>
 </table>
+
 ## List of Terminal IRC Clients
+
 <table>
     <tr>
         <td>Client</td>
     </tr>
     <tr>
-        <td><a href="/wiki/client/weechat">weechat</a></td>
+        <td><a href="/wiki/client/bitchx">BitchX</a></td>
     </tr>
     <tr>
         <td><a href="/wiki/client/irssi">irssi</a></td>
     </tr>
     <tr>
-        <td><a href="/wiki/client/bitchx">BitchX</a></td>
+        <td><a href="/wiki/client/weechat">weechat</a></td>
     </tr>
 </table>
 ## List of Web IRC Clients
