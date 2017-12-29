@@ -70,7 +70,9 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
         <td><a href="/wiki/client/weechat">weechat</a></td>
     </tr>
 </table>
+
 ## List of Web IRC Clients
+
 <table>
     <tr>
         <td>Client</td>
@@ -87,6 +89,7 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
 </table>
 
 ## Mobile IRC Clients
+
 <table>
     <tr>
         <td>Client</td>
