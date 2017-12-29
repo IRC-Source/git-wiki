@@ -22,37 +22,37 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
         <td>Linux</td>
     </tr>
     <tr>
-        <td>[AdiIRC](/wiki/client/adiirc)</td>
+        <td><a href="/wiki/client/adiirc">AdiIRC</a></td>
         <td>✔</td>
         <td>✖</td>
         <td>✖</td>
     </tr>
     <tr>
-        <td>[HexChat](/wiki/client/hexchat)</td>
+        <td><a href="/wiki/client/hexchat">HexChat</a></td>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
     </tr>
     <tr>
-        <td>[IRCCloud](/wiki/client/irccloud)</td>
+        <td><a href="/wiki/client/irccloud">IRCCloud</a></td>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
     </tr>
     <tr>
-        <td>[irssi](/wiki/client/irssi)</td>
+        <td><a href="/wiki/client/irssi">irssi</a></td>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
     </tr>
     <tr>
-        <td>[mIRC](/wiki/client/mirc)</td>
+        <td><a href="/wiki/client/mirc">mIRC</a></td>
         <td>✔</td>
         <td>✖</td>
         <td>✖</td>
     </tr>
     <tr>
-        <td>[Quassel](/wiki/client/quassel-client)</td>
+        <td><a href="/wiki/client/quassel-client">Quassel</a></td>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
