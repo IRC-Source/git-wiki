@@ -14,12 +14,50 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
 
 # List of IRC Clients
 ## List of Desktop IRC Clients
-* [AdiIRC](/wiki/client/adiirc) (Windows/Wine)
-* [HexChat](/wiki/client/hexchat) (Windows/Linux/OSX)
-* [IRCCloud](/wiki/client/irccloud) (w/ apps for Windows/Linux/OSX/IOS/Android)
-* [irssi](/wiki/client/irssi) (Windows/Linux/OSX)
-* [mIRC](/wiki/client/mirc) (Windows)
-* [Quassel](/wiki/client/quassel-client) (Windows/Linux/OSX/Android/IOS?)
+<table>
+    <tr>
+        <td>Client</td>
+        <td>Windows</td>
+        <td>OSX</td>
+        <td>Linux</td>
+    </tr>
+    <tr>
+        <td>[AdiIRC](/wiki/client/adiirc)</td>
+        <td>✔</td>
+        <td>✖</td>
+        <td>✖</td>
+    </tr>
+    <tr>
+        <td>[HexChat](/wiki/client/hexchat)</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>[IRCCloud](/wiki/client/irccloud)</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>[irssi](/wiki/client/irssi)</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>[mIRC](/wiki/client/mirc)</td>
+        <td>✔</td>
+        <td>✖</td>
+        <td>✖</td>
+    </tr>
+    <tr>
+        <td>[Quassel](/wiki/client/quassel-client)</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+    </tr>
+</table>
 
 ## List of Web IRC Clients
 * [IRCCloud](/wiki/client/irccloud) (w/ apps for Windows/Linux/OSX/IOS/Android)
