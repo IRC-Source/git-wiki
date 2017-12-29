@@ -13,22 +13,7 @@ IRC clients on the web such as [IRCCloud](/wiki/client/irccloud), [KiwiIRC](/wik
 Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Spring Engine-based games, 0 A.D., ZDaemon and Gota.io have included IRC as a backend for their in game chat.
 
 # List of IRC Clients
-## List of Terminal / SSH IRC Clients
-<table>
-    <tr>
-        <td>Client</td>
-    </tr>
-    </tr>
-    <tr>
-        <td><a href="/wiki/client/weechat">weechat</a></td>
-    </tr>
-    <tr>
-        <td><a href="/wiki/client/irssi">irssi</a></td>
-    </tr>
-    <tr>
-        <td><a href="/wiki/client/bitchx">BitchX</a></td>
-    </tr>
-</table>
+
 ## List of Desktop IRC Clients
 <table>
     <tr>
@@ -68,7 +53,21 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
         <td>✔</td>
     </tr>
 </table>
-
+## List of Terminal IRC Clients
+<table>
+    <tr>
+        <td>Client</td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/weechat">weechat</a></td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/irssi">irssi</a></td>
+    </tr>
+    <tr>
+        <td><a href="/wiki/client/bitchx">BitchX</a></td>
+    </tr>
+</table>
 ## List of Web IRC Clients
 <table>
     <tr>
