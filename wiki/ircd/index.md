@@ -12,7 +12,7 @@ An IRCd, short for Internet Relay Chat daemon, is server software that implement
 
 ## List of IRC Daemons
 *This list is incomplete, help us complete it by submitting a PR*
-* [Bahamut](/wiki/ircd/Bahamut)
+* [Bahamut](/wiki/ircd/bahamut)
 * [Charybdis](/wiki/ircd/charybdis)
 * [Elemental-IRCd](/wiki/ircd/elemental-ircd)
 * [Hybrid](/wiki/ircd/hybrid)
