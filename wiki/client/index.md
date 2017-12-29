@@ -10,7 +10,7 @@ Some IRC clients are extensible through scripts or libraries. For example, [mIRC
 
 IRC clients on the web such as [IRCCloud](/wiki/client/irccloud), [KiwiIRC](/wiki/client/kiwiirc), and [Mibbit](/wiki/client/mibbit) will work on most web browsers. Ustream's chat interface is IRC with custom authentication as well as twitch.tv's.
 
-Games such as War§ow, Unreal Tournament (up to Unreal Tournament 2004), Uplink, Spring Engine-based games, 0 A.D., ZDaemon and Gota.io have included IRC as a backend for their in game chat.
+Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Spring Engine-based games, 0 A.D., ZDaemon and Gota.io have included IRC as a backend for their in game chat.
 
 ## List of IRC Clients
 * [AdiIRC](/wiki/client/adiirc) (Windows/Wine)
