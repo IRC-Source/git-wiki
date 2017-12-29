@@ -3,7 +3,7 @@ title: IRC Wiki
 excerpt: A wiki for IRC based on Github pages
 ---
 # Welcome to IRC Wiki
-Our new wiki website is powered by Github pages. If you would like to make edits then pull requests are welcome.
+Our wiki is powered by Github pages. If you would like to make edits then pull requests are welcome.
 
 # Contributions
 Contributions to this wiki are possible through Pull Requests on the repo.
