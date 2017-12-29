@@ -96,7 +96,7 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
         <td>✖</td>
     </tr>
     <tr>
-        <td><a href="/wiki/client/quassel">Quassel</td>
+        <td><a href="/wiki/client/quassel">Quassel</a></td>
         <td>✔</td>
         <td>✔</td>
         <td>✖</td>
