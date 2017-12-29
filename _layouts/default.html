@@ -32,6 +32,28 @@
         </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.google_cse_token %}
+          <script>
+          (function() {
+            var cx = "{{site.google_cse_token}}";
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+          })();
+          </script>
+          <gcse:search></gcse:search>
+        {% else %}
+          <form method="GET" action="{{ site.github.repository_url }}/search">
+            {% if site.use_github_wiki %}
+              <input type="hidden" name="type" value="Wikis">
+            {% endif %}
+            <input type="text" name="q" placeholder="Text to search"><input type="submit" value="Search">
+          </form>
+        {% endif %}
+
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
@@ -65,27 +87,7 @@
           <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}{{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Source</a></span>
         {% endif %}
         
-        {% if site.google_cse_token %}
-          <script>
-          (function() {
-            var cx = "{{site.google_cse_token}}";
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-          })();
-          </script>
-          <gcse:search></gcse:search>
-        {% else %}
-          <form method="GET" action="{{ site.github.repository_url }}/search">
-            {% if site.use_github_wiki %}
-              <input type="hidden" name="type" value="Wikis">
-            {% endif %}
-            <input type="text" name="q" placeholder="Text to search"><input type="submit" value="Search">
-          </form>
-        {% endif %}
+
       </div>
         
       <div id="toc"></div>
