@@ -59,15 +59,27 @@ Games such as War§ow, Unreal Tournament (>= Unreal Tournament 2004), Uplink, Sp
 <table>
     <tr>
         <td>Client</td>
+        <td>Windows</td>
+        <td>OSX</td>
+        <td>Linux</td>
     </tr>
     <tr>
         <td><a href="/wiki/client/bitchx">BitchX</a></td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
     </tr>
     <tr>
         <td><a href="/wiki/client/irssi">irssi</a></td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
     </tr>
     <tr>
         <td><a href="/wiki/client/weechat">weechat</a></td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
     </tr>
 </table>
 
