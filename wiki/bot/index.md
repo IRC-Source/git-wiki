@@ -7,17 +7,10 @@ categories: bots
 
 # IRC Bots
 ## What is an IRC Bot?
-An IRC bot is any non-human client that connects to IRC and performs predetermined operations.
+An IRC bot is a set of scripts or a program that connects to IRC as a client, and so appears to other users as another user. IRC bots can perform many different functions from checking the weather to games like uno and cards against humanity. Notable bots include [eggdrop](/wiki/bot/eggdrop) and [supybot](/wiki/bot/supybot).
 
-## List of IRC Bots
-### All-Purpose
-
-* [eggdrop](/wiki/bot/eggdrop)
-* [supybot](/wiki/bot/supybot)
-
-### Games
-
-* [UnoBot](https://github.com/mjsalerno/UnoBot)
-* [Lykos (Werewolf game)](https://github.com/lykoss/lykos)
-
-*more to come*
+## External Links
+* [Eggdrop on Github](https://github.com/eggheads/eggdrop)
+* [Supybot on Github](https://github.com/Supybot/Supybot)
+* [UnoBot on Github](https://github.com/mjsalerno/UnoBot)
+* [Lykos (Werewolf game) on Github](https://github.com/lykoss/lykos)
