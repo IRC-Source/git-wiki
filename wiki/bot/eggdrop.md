@@ -13,9 +13,11 @@ A notable Tcl script is 'bmotion' available on GitHub [here](https://github.com/
 Scripts for eggdrop are written in TCL and many scripts can be found for eggdrop on [TCL Archive](http://tclarchive.org).
 
 # Botnet
-Eggdrop bots can be linked together to form an [IRC botnet](/wiki/bot/#irc-botnets). This can allow bots to op each other securely, control floods efficiently, and even link channels across multiple IRC networks. It also allows the Eggdrops share user lists, ban lists, exempt/invite lists, and ignore lists with other bots if userfile sharing is enabled. This allows users to have the same access on every bot on your botnet. It also allows the bots to distribute tasks such as opping and banning users.<sup>[2]</sup>
+Eggdrop bots can be linked together to form an [IRC botnet](/wiki/bot/#irc-botnets). This can allow bots to op each other securely, control floods efficiently, and even link channels across multiple IRC networks. It also allows the Eggdrops share user lists, ban lists, exempt/invite lists, and ignore lists with other bots if userfile sharing is enabled. This allows users to have the same access on every bot on your botnet. It also allows the bots to distribute tasks such as opping and banning users.<sup>[1]</sup>
 
 # External Links
 1. [TCL Archive](http://tclarchive.org): A place to find and submit eggdrop scripts.
 2. [Eggdrop Git Repository](https://github.com/eggheads/eggdrop)
-3. [Eggheads](http://eggheads.org)
+
+## References
+1. [Eggheads](http://eggheads.org)
