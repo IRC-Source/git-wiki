@@ -1,3 +1,7 @@
+---
+title: IRC Related Websites
+excerpt: IRC related websites
+---
 >This article is a stub. You can help by creating a  Pull Request.
 
 Here is a list of IRC related websites in alphabetical order. Feel free to add to this list.
