@@ -1,5 +1,5 @@
 ---
-Title: Bahamut IRCd - IRC Wiki
+Title: Bahamut IRCd
 category: ircd
 ---
 >This article is a stub. You can help by creating a pull request.

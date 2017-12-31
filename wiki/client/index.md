@@ -1,5 +1,5 @@
 ---
-title: IRC Clients - IRC Wiki
+title: IRC Clients
 excerpt: What an IRC client is and what IRC clients are available.
 categories: clients
 ---

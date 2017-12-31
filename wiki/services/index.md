@@ -1,5 +1,5 @@
 ---
-title: IRC Services - IRC Wiki
+title: IRC Services
 excerpt: Services packages for IRC.
 categories: services
 ---

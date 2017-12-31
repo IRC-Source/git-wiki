@@ -1,5 +1,5 @@
 ---
-title: UnrealIRCd - IRC Wiki
+title: UnrealIRCd
 excerpt: UnrealIRCd is an Open Source IRC Server, serving thousands of networks since 1999.
 categories: ircd
 ---

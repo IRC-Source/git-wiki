@@ -1,5 +1,5 @@
 ---
-title: IRC Wiki
+title: Homepage
 excerpt: A wiki for IRC based on Github pages
 ---
 # Welcome to IRC Wiki

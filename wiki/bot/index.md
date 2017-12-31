@@ -1,5 +1,5 @@
 ---
-title: IRC Bots - IRC Wiki
+title: IRC Bots
 excerpt: What an IRC bot is, and what bots exist.ss
 ---
 # IRC Bots

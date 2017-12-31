@@ -1,5 +1,5 @@
 ---
-title: IRC Servers (IRCd) - IRC Wiki
+title: IRC Servers (IRCd)
 excerpt: What an IRCd is, and which are available.
 categories: ircd
 ---

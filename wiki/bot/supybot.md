@@ -1,5 +1,5 @@
 ---
-title: Supybot IRC bot - IRC Wiki
+title: Supybot IRC bot
 excerpt: Supybot is an IRC bot written in Python.
 ---
 # Supybot

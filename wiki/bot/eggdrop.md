@@ -1,5 +1,5 @@
 ---
-title: Eggdrop IRC Bot - IRC Wiki
+title: Eggdrop IRC Bot
 excerpt: About the Eggdrop IRC bot written in C.
 categories: bots
 ---

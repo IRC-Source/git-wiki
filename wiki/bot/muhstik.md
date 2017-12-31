@@ -1,5 +1,5 @@
 ---
-title: muhstik - IRC Wiki
+title: muhstik IRC bot
 excerpt: muhstik is an IRC bot often used to flood channels or perform channel take overs
 ---
 >This article is a stub. You can help by creating a Pull Request.
