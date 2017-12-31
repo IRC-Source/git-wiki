@@ -7,6 +7,9 @@ excerpt: Limnoria is an IRC bot written in Python and based on Supybot
 # Limnoria IRC Bot
 **Limnoria** is an IRC bot which is forked from [Supybot](/wiki/bot/supybot). It is written in python, contains an amazing permissions system, and it's very easy to write plugins for. Limnoria picks up where Supybot left off.
 
+# Scripts
+Scripts for Limnoria are written in the Python programming language.
+
 # External Links
 1. [Limnoria on Github](https://github.com/ProgVal/Limnoria)
 2. [Limnoria Documentation](https://limnoria.readthedocs.io/en/latest/)
