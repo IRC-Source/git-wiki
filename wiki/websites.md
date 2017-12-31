@@ -7,3 +7,4 @@ Here is a list of IRC related websites in alphabetical order. Feel free to add t
 * [IRC News](http://ircnews.net) - The latest happenings on IRC.
 * [IRC Overflow](https://irc-overflow.com) - Ask questions and get answers about IRC.
 * [IRC-Source.com](https://irc-source.com) - IRC search & statistics.
+* [Hawkee](http://hawkee.com/) -  Mostly full of IRC scripts
