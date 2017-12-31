@@ -17,3 +17,6 @@ Contributions to this wiki are possible through Pull Requests on the repo.
 1. [Getting started with IRC](/wiki/getting-started)
 2. [Websites](/wiki/websites)
 3. [IRC Clients](/wiki/client/#list-of-irc-clients)
+
+## Documents
+1. [RFC-1459 - the IRC protocol](wiki/docs/rfc1459.pdf)
