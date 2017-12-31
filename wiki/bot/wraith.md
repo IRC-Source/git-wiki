@@ -13,3 +13,7 @@ A leaf connects to IRC and to a hub on the [botnet](/wiki/bot/#irc-botnets).
 
 ## Leaf Security
 Wraith keeps an encrypted copy of its configuration file inside of the binary for the bot. To reconfigure the bot you must provide a password. Wraith also only stores an encrypted copy of the user file only on hubs so that nothing is kept locally on the leafs.
+
+# External Links
+1. [Wraith website](http://wraith.botpack.net)
+2. [Wraith on Github](https://github.com/wraith/wraith)
